@@ -7,7 +7,7 @@
 window.FIREBASE_CONFIG = {
   apiKey: "AIzaSyAr-M-wts8q-GcWl7wpGKqRi8N0Gv1Dmfw",
   authDomain: "trade-simulation-560fb.firebaseapp.com",
-  databaseURL: https://trade-simulation-560fb-default-rtdb.firebaseio.com/
+  databaseURL: "https://trade-simulation-560fb-default-rtdb.firebaseio.com/",
   projectId: "trade-simulation-560fb",
   storageBucket: "trade-simulation-560fb.firebasestorage.app",
   messagingSenderId: "494814536633",
